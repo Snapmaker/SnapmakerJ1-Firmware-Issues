@@ -1,12 +1,12 @@
-# Snapmaker J1 Firmware issues
-
-Since the firmware of Snapmaker J1 is not ready for open source, we created this repo for collecting issues of Snapmaker J1 firmware.
+# Snapmaker J1 Firmware issues (Screen only)
 
 
 Firmware of Snapmaker J1 includes:
 
-- firmware on main controller (planned to open source later this year)
-- screen application
+- Firmware on main controller
+  - Snapmaker J1 controller firmware is now [open source](https://snapmaker.com/blog/2023/05/12/snapmaker-j1-controller-firmware-open-source-release/), [[repo](https://github.com/Snapmaker/SnapmakerController-IDEX)]
+  - Please open issues on [issues](https://github.com/Snapmaker/SnapmakerController-IDEX/issues)
+- Screen application (Android Application, closed sourced)
 
 
 
